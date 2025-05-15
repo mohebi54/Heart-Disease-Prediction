@@ -1,10 +1,9 @@
-
 # Heart Disease Prediction
 
 This project predicts heart disease using the UCI Heart Disease dataset.
 
 ## Dataset
-- Source: [UCI Heart Disease Dataset](https://www.kaggle.com/ronitf/heart-disease-uci)
+- Source: [UCI Heart Disease Dataset](https://www.kaggle.com/datasets/arezaei81/heartcsv)
 - Size: 303 samples, 14 features
 
 ## Preprocessing
